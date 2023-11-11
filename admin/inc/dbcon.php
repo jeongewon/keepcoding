@@ -1,9 +1,9 @@
 <?php
 
 $hostname = 'localhost';
-$dbuserid = 'keepcoding';
-$dbpasswd = 'keep0329!';
-$dbname = 'keepcoding';
+$dbuserid = 'ewon';
+$dbpasswd = 'dldnjs8892!';
+$dbname = 'ewon';
 
 $mysqli = new mysqli($hostname, $dbuserid, $dbpasswd, $dbname);
 
