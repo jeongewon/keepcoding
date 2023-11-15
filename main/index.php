@@ -341,24 +341,24 @@
       <p><span>제작기간</span> : 2023. 09. 09 - 09. 25</p>
       <p><span>특징</span> : html, css, jQuery (Bootstrap, jQuery Library)</p>
       <p>local: Windows, XAMPP(PHP, APACHE, MYSQL) | remote : PHP, LINUX, MYSQL</p>
-      <p><span>기획</span> : <a href="#" target="_blank" class="figma"><span class="font_green">발표 자료</span></a>  |  <span>코드</span> : <a href="https://github.com/rivermountain96/keepcoding/tree/main" target="_blank" class="git"><span>깃허브</span><i class="fa-brands fa-github"></i></a></p>
-      <p><span>구현 완료 페이지</span> : <a href="http://keepcoding.dothome.co.kr/keepcoding/main/index.php" target="_blank" class="dothome"><span>Keep Coding 페이지</span></a></p>
+      <p><span>기획</span> : <a href="https://www.figma.com/file/sauaqreaPUTnrP3JfRvAB1/4%E1%84%8E%E1%85%A1-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3-PPT?type=design&node-id=0%3A1&mode=design&t=jNTitizAh55BEDuh-1" target="_blank" class="figma"><span class="font_green">발표 자료</span></a>  |  <span>코드</span> : <a href="https://github.com/jeongewon/keepcoding.git" target="_blank" class="git"><span>깃허브</span><i class="fa-brands fa-github"></i></a></p>
+      <p><span>구현 완료 페이지</span> : <a href="http://ewon.dothome.co.kr/keepcoding/main/index.php" target="_blank" class="dothome"><span>Keep Coding 페이지</span></a></p>
     </div>
   
     <hr>
   
     <div class="work">
-      <p><span>팀원</span> : 정*원, 박*용, 이*산, 이*서, 최*희</p>
+      <p><span>팀원</span> : 정이원, 박*용, 이*산, 이*서, 최*희</p>
       <p><span>기획</span> : 공동 참여</p>
-      <p><span>디자인</span> : 정*원, 최*희</p>
+      <p><span>디자인</span> : 정이원, 최*희</p>
       <dl>
         <dt><span>- 퍼블리싱 구현 -</span></dt>
-        <dd><span>정*원</span> : 로그인 / 회원가입 / 탑버튼</dd>
+        <dd><span>정이원</span> : 로그인 / 회원가입 / 탑버튼</dd>
         <dd><span>최*희</span> : 메인 / 헤더 | 푸터 / 강의탐색 / 강의상세보기 / 숏강의 / 마이페이지</dd>
         <dd><span>이*산</span> : 로그인 / 회원가입</dd>
         <dd><span>이*서</span> : common.css / 메인(테스트)</dd>
         <dt><span>- 백엔드 구현 -</span></dt>
-        <dd><span>정*원</span> : 장바구니</dd>
+        <dd><span>정이원</span> : 장바구니</dd>
         <dd><span>이*산</span> : 로그인 / 로그아웃 / 회원가입 / 메인 / 마이페이지</dd>
         <dd><span>이*서</span> : 강의탐색 / 강의상세보기 / 메인(테스트)</dd>
       </dl>
