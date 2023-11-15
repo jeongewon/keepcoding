@@ -90,8 +90,8 @@
     <p><span>제작기간</span> : 2023. 08. 11 - 09. 08</p>
     <p><span>특징</span> : html, css, jQuery (Bootstrap, jQuery Library)</p>
     <p>local: Windows, XAMPP(PHP, APACHE, MYSQL) | remote : PHP, LINUX, MYSQL</p>
-    <p><span>기획</span> : <a href="#" target="_blank" class="figma"><span class="font_green">발표 자료</span></a>  |  <span>코드</span> : <a href="https://github.com/rivermountain96/keepcoding/tree/main" target="_blank" class="git"><span>깃허브</span><i class="fa-brands fa-github"></i></a></p>
-    <p><span>구현 완료 페이지</span> : <a href=http://ewon.dothome.co.kr/keepcoding/admin/login.php" target="_blank" class="dothome"><span>관리자 로그인 페이지</span></a></p>
+    <p><span>기획</span> : <a href="https://www.figma.com/file/EuaqoCmsYRND0e9RyuDzMM/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(KEEPCODING)?type=design&node-id=0%3A1&mode=design&t=Ora3wv6vjSR843mH-1" target="_blank" class="figma"><span class="font_green">발표 자료</span></a>  |  <span>코드</span> : <a href="https://github.com/jeongewon/keepcoding.git" target="_blank" class="git"><span>깃허브</span><i class="fa-brands fa-github"></i></a></p>
+    <p><span>구현 완료 페이지</span> : <a href="http://ewon.dothome.co.kr/keepcoding/admin/login.php" target="_blank" class="dothome"><span>관리자 로그인 페이지</span></a></p>
   </div>
 
   <hr>
@@ -105,7 +105,7 @@
 
   <div class="work">
     <p><span>팀원</span> : 정이원, 박*용, 이*산, 이*서, 최*희</p>
-    <p><span>기획</span> : 전원참가<a href="https://www.figma.com/file/EuaqoCmsYRND0e9RyuDzMM/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(KEEPCODING)?type=design&node-id=0%3A1&mode=design&t=Ora3wv6vjSR843mH-1" target="_blank">(figma)</a></p>
+    <p><span>기획</span> : 전원참가</p>
     <dl>
       <dt><span>- 퍼블리싱 구현 -</span></dt>
       <dd><span>최*희</span> : 강좌관리/쿠폰등록/공지사항/Q&amp;A게시판/강사&amp;수강생 관리</dd>
